@@ -1,4 +1,4 @@
-<<<<<<< HEAD2
+<<<<<<< HEAD3
 # Hello Node
 This is a very basic Hello World application written with Node.
 
