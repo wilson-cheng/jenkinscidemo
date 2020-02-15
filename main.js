@@ -1,4 +1,5 @@
 // load the http module
+// add one meaning comment
 var http = require('http');
 
 // configure our HTTP server
